@@ -48,7 +48,7 @@ The complete source code of this application is hosted in Github for easy refere
 Feel free to review and provide your suggestions/inputs. 
 
 In case if you identify an issue or have an recommendation feel free to raise a 
-[GitHub issue](https://github.com/XoN-PassPower) .
+[GitHub issue](https://github.com/DevaOnBreaches/PassPower-Chrome/issues) .
 
 ## Changelog
 
