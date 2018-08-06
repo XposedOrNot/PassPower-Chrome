@@ -2,7 +2,7 @@
 
 ** Captcha for passwords **
 
-![XoN-PassPower demo](https://github.com/XoN-PassPower-chrome/raw/master/pics/demo.gif)
+![XoN-PassPower demo](https://github.com/DevaOnBreaches/PassPower-Chrome/blob/master/pics/demo.gif)
 
 
 ## What is XoN-PassPower?
